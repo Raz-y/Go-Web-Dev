@@ -1,1 +1,1 @@
-# Go-Web-Dev
+# Web Development with Go
